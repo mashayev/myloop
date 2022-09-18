@@ -1,2 +1,2 @@
 # myloop
-My implantation for how loop Shell command should be
+My implantation for how the loop SHELL command should be
